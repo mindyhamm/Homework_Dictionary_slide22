@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Homework_Dictionary_slide22\Homework_Dictionary_slide22\bin\Debug\Homework_Dictionary_slide22.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Homework_Dictionary_slide22\Homework_Dictionary_slide22\obj\Debug\Homework_Dictionary_slide22.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Homework_Dictionary_slide22\Homework_Dictionary_slide22\bin\Debug\Homework_Dictionary_slide22.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Homework_Dictionary_slide22\Homework_Dictionary_slide22\bin\Debug\Homework_Dictionary_slide22.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Homework_Dictionary_slide22\Homework_Dictionary_slide22\obj\Debug\Homework_Dictionary_slide22.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Homework_Dictionary_slide22\Homework_Dictionary_slide22\obj\Debug\Homework_Dictionary_slide22.pdb
